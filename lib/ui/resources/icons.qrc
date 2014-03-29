@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Devine Icon 2/PNG/Black/Bookmark.png</file>
+    <file>Devine Icon 2/PNG/Black/Camera 2.png</file>
+    <file>Devine Icon 2/PNG/Black/Contarst Mesure.png</file>
+    <file>Devine Icon 2/PNG/Black/Flickr.png</file>
+    <file>Devine Icon 2/PNG/Black/Floopy.png</file>
+    <file>Devine Icon 2/PNG/Black/Next Track.png</file>
+    <file>Devine Icon 2/PNG/Black/Previous Track.png</file>
+    <file>Devine Icon 2/PNG/Black/Search.png</file>
+    <file>Devine Icon 2/PNG/Black/Stop.png</file>
+    <file>Devine Icon 2/PNG/Black/Play.png</file>
+    <file>Devine Icon 2/PNG/Black/Pause.png</file>
+    <file>Devine Icon 2/PNG/Black/Repeat.png</file>
+    <file>Devine Icon 2/PNG/Black/Task.png</file>
+    <file>Devine Icon 2/PNG/Black/Tools.png</file>
+    <file>Devine Icon 2/PNG/Black/Video.png</file>
+    <file>Devine Icon 2/PNG/Black/Volume Full.png</file>
+    <file>Devine Icon 2/PNG/Black/Volume Off.png</file>
+  </qresource>
+</RCC>
