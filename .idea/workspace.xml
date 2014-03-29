@@ -26,7 +26,7 @@
       <file leaf-file-name="mausverpyler.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mausverpyler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="18" selection-start="4346" selection-end="4352" vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="4913">
+            <state line="119" column="18" selection-start="4346" selection-end="4352" vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="5202">
               <folding />
             </state>
           </provider>
@@ -35,12 +35,8 @@
       <file leaf-file-name="Tracker.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/core/Tracker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1275">
-              <folding>
-                <marker date="1395657526372" expanded="true" signature="65:1920" placeholder="..." />
-                <marker date="1395657526372" expanded="true" signature="176:197" placeholder="..." />
-                <marker date="1395657526372" expanded="true" signature="1323:1920" placeholder="..." />
-              </folding>
+            <state line="39" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="1350">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,18 +44,7 @@
       <file leaf-file-name="FrameSource.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/core/FrameSource.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="53" selection-start="812" selection-end="812" vertical-scroll-proportion="0.22332016" vertical-offset="448" max-vertical-offset="1938">
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ROI.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/pyqtgraph/graphicsItems/ROI.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="33" selection-start="3543" selection-end="3543" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="32453">
+            <state line="24" column="53" selection-start="518" selection-end="518" vertical-scroll-proportion="0.5837838" vertical-offset="0" max-vertical-offset="2052">
               <folding />
             </state>
           </provider>
@@ -68,7 +53,7 @@
       <file leaf-file-name="build_uic_windows.bat" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build_uic_windows.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="60" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+            <state line="2" column="60" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="144">
               <folding />
             </state>
           </provider>
@@ -95,10 +80,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1320" />
-    <option name="height" value="784" />
+    <option name="x" value="-2" />
+    <option name="y" value="25" />
+    <option name="width" value="1924" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -134,48 +119,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MausVerPyler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MausVerPyler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MausVerPyler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MausVerPyler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MausVerPyler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MausVerPyler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -185,7 +128,7 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="appearance" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -376,26 +319,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-2" y="25" width="1924" height="1057" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15510522" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14107561" sideWeight="0.6702454" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14060031" sideWeight="0.6702454" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19025876" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18921776" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32743362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -413,10 +356,38 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mausverpyler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="18" selection-start="4346" selection-end="4352" vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="5202">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/Tracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/FrameSource.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="53" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2052">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_uic_windows.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="60" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="144">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mausverpyler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="119" column="18" selection-start="4346" selection-end="4352" vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="4913">
@@ -427,26 +398,13 @@
     <entry file="file://$PROJECT_DIR$/lib/core/Tracker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1275">
-          <folding>
-            <marker date="1395657526372" expanded="true" signature="65:1920" placeholder="..." />
-            <marker date="1395657526372" expanded="true" signature="176:197" placeholder="..." />
-            <marker date="1395657526372" expanded="true" signature="1323:1920" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/core/FrameSource.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="53" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0" vertical-offset="261" max-vertical-offset="1938">
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pyqtgraph/graphicsItems/ROI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="33" selection-start="3543" selection-end="3543" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="32453">
           <folding />
         </state>
       </provider>
@@ -563,11 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/numpy/random/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2023" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build_uic_windows.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="60" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
@@ -575,21 +528,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pyqtgraph/graphicsItems/ROI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="33" selection-start="3543" selection-end="3543" vertical-scroll-proportion="0.0" vertical-offset="1496" max-vertical-offset="32453">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/core/Tracker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
-          <folding>
-            <marker date="1395657526372" expanded="true" signature="65:1920" placeholder="..." />
-            <marker date="1395657526372" expanded="true" signature="176:197" placeholder="..." />
-            <marker date="1395657526372" expanded="true" signature="1323:1920" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -602,10 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/core/FrameSource.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="53" selection-start="812" selection-end="812" vertical-scroll-proportion="0.22332016" vertical-offset="448" max-vertical-offset="1938">
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state line="24" column="53" selection-start="518" selection-end="518" vertical-scroll-proportion="0.5837838" vertical-offset="0" max-vertical-offset="2052">
+          <folding />
         </state>
       </provider>
     </entry>
